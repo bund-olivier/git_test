@@ -1,3 +1,3 @@
-This is Olivier's first git project!
+First git.
 
 changes on 17012020
